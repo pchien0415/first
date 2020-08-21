@@ -5,7 +5,6 @@ fun main() {
     val h = Human(66.5f, 1.7f)
     h.hello()
     println(h.bmi());
-    val score = 88
     val c : Char = 'A'
     println(c.toInt() > 60)
     /*var age = 18
